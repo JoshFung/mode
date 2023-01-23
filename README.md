@@ -1,4 +1,4 @@
-# Mode - nwHacks 2023
+# Mode - nwHacks 2023 Verbwire Sponsor Winner
 
 ![Intro](./START.png)
 
@@ -14,7 +14,6 @@ Our submission link is live on Devpost to view. Click [here](https://devpost.com
 ## Inspiration
 To build an economically, and environmentally competent solution to combat the growing industry of fast fashion.
 
-
 ## What it does
 Mode serves as a marketplace for users around the world to upload their 2nd-hand clothes, minimizing the accumulation of clothes-related waste and increasing the longevity of garment pieces. To perserve the exclusivity of owning the clothes, we rely on Verbwire to mint the clothes uploaded by a user and store them in their own digital wallets. 
 
@@ -26,7 +25,7 @@ Low Fi to Mid Fi to High Fi, async building backend and frontend with a final me
 2. Deployment for Backend
 
 ## Accomplishments that we're proud of
-We managed to get it up and working through the unforseen obstacles.
+We managed to get it up and working through the unforeseen obstacles.
 
 ## What we learned
 Even when you've done something countless times, when it goes wrong it can still be very costly. Never be complacent.
